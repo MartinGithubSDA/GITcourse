@@ -1,2 +1,4 @@
 change in file.
 i text
+
+dalsia zmena reset`
